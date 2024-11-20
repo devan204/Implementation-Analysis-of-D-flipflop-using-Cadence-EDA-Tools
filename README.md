@@ -1,4 +1,4 @@
-# Ex No: 03-Design-and-Implementation-of-D-Flip-Flop-using-Cadence-EDA-Tools
+# Ex No: 03-Design and  simulate a D Latch cell using Cadence EDA 
    
 
 ## Aim:
